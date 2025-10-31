@@ -44,3 +44,17 @@ jetzt muss ich noch die Dateien am richtigen ort einordnen.
 [ ] Erste umsetztungen des Codingprojekts
 
 ## Reflexion
+Heute habe ich das Ordnungsystem fertig angepasst und beendet.
+Ausserdem habe ich mir verschiedene Ideen für das Coding projekt aufgeschrieben. 
+Danach habe ich mir nochmals die grundlagen von C# angeschaut da ich einiges vergessen habe.
+um es mir zu merken habe ich gleich einige kleine Projekte gecodet.
+
+## Planung 07.11.2025
+[ ] Coding Projekt Anfangen
+[ ] C# kenntnise erweitern
+[ ] Kentnisse für  projekt  nutzen
+
+## Reflexion
+
+
+
