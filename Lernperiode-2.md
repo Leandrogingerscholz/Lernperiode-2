@@ -26,9 +26,9 @@ Leider habe ich noch viel zu tun deshalb mach ich noch einiges zuhause.
 
 ## Planung 24.10.2025
 
-[ ] Modul 319 Aufgaben fertig lösen
-[ ]Modul 431 Aufgaben fertig lösen
-[ ] Pc besser organisieren.
+[x] Modul 319 Aufgaben fertig lösen
+[x]Modul 431 Aufgaben fertig lösen
+[x] Pc besser organisieren.
 
 ## Reflexion
 Ich habe heute meinen Pc etwas sortiert. 
@@ -39,8 +39,8 @@ Nun habe ich ei Ordner system das ordner hat für Baden und Aarau und dan für d
 jetzt muss ich noch die Dateien am richtigen ort einordnen.
 
 ## Planung 31.10.2025
-[ ] Coding Projekt Planen
-[ ] Letzter schliff am Ordnungssystem
+[x] Coding Projekt Planen
+[x] Letzter schliff am Ordnungssystem
 [ ] Erste umsetztungen des Codingprojekts
 
 ## Reflexion
@@ -51,10 +51,20 @@ um es mir zu merken habe ich gleich einige kleine Projekte gecodet.
 
 ## Planung 07.11.2025
 [ ] Coding Projekt Anfangen
-[ ] C# kenntnise erweitern
+[x] C# kenntnise erweitern
 [ ] Kentnisse für  projekt  nutzen
 
 ## Reflexion
+Heute habe ich zusammen mit Edim, dem buch und dem Internet meine C# kenntnise erweitert. 
+Ausserdem habe ich einige dinge an meinem Ordnungsysteme umgeordnet.
+Ich habe einen Plan für mein Projekt erstellt.
+Zu guter letzt habe ich Joel geholfen einige Probleme zu lösen.
+
+## Planung 14.11.2025
+[ ]  Projekt Starten
+[ ]  C# Kentnisse Repetieren
+[ ]  Modul 216 Weiterarbeiten
+
 
 
 
