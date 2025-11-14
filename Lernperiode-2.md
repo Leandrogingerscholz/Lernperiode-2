@@ -65,6 +65,15 @@ Zu guter letzt habe ich Joel geholfen einige Probleme zu lösen.
 [ ]  C# Kentnisse Repetieren
 [ ]  Modul 216 Weiterarbeiten
 
+## Reflexion
+Heute habe ich die Planung in meinem Ordunungsystem einpelant und passene Ordner dazu erstellt. Ich habe mich über C# informiert und repetiert. Ausserdem habe ich am Modul 216 weitergearbeitet. In zukunft sollte ich effektiver un schneller Arbeiten da ich sehr viel Zeit für kleine AUfgaben gebraucht habe.  
+
+## Planung 21.11.2025
+[ ] C# kenntinise mit ersten Projektprogrammierungen erweitern
+[ ] Feinplanung des Projekts
+[ ] Erste Design vorschläge des Projekts sammeln
+
+
 
 
 
