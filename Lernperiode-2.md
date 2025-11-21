@@ -73,6 +73,15 @@ Heute habe ich die Planung in meinem Ordunungsystem einpelant und passene Ordner
 [ ] Feinplanung des Projekts
 [ ] Erste Design vorschläge des Projekts sammeln
 
+## Reflexion
+Ich habe mein Projekt nun weiter ausgearbeitet, ausserdem habe ich mir beispiele aus ähnlichen websiten geholt um ideen für funktionen und design zu sammeln. Ich habe mich darüber informiert wie ich diese ideen umsetzen könnte. Ausserdem habe ich am Modul 216 Weitergearbeitet. Zukünftig sollte ich im vorraus den Ablauf des Tages planen da ich so viel effektiver arbeiten könnte.
+
+## Planung 28.11.2025
+[  ] Tagesplanung erstellen
+[  ] Projekt planung auf Pc verfassen
+[  ] Modul 216 bearbeiten
+
+
 
 
 
