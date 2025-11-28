@@ -81,6 +81,17 @@ Ich habe mein Projekt nun weiter ausgearbeitet, ausserdem habe ich mir beispiele
 [  ] Projekt planung auf Pc verfassen
 [  ] Modul 216 bearbeiten
 
+## Reflexion
+Heute habe ich im Quietspace die Feinplanung für meine Website erstellt, diese habe ich in einem Word festgehalten, ausserdem habe ich weitere ideen auf pinterest und bei andern ähnlichen Websiten gesucht.
+Ich hatte am anfang etwas Probleme mit dem Monitor da die auflösung nicht stimmte und die Qualität dadurch Miserabel war. 
+
+## Planung 05.12.2025
+[] Feinplanung in Excel Datei festhalten
+[] Beta Version weiterführen.
+[] Html basics 
+
+
+
 
 
 
