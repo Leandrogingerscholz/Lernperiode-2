@@ -26,9 +26,9 @@ Leider habe ich noch viel zu tun deshalb mach ich noch einiges zuhause.
 
 ## Planung 24.10.2025
 
-[x] Modul 319 Aufgaben fertig lösen
-[x]Modul 431 Aufgaben fertig lösen
-[x] Pc besser organisieren.
+- [x] Modul 319 Aufgaben fertig lösen
+- [x]Modul 431 Aufgaben fertig lösen
+- [x] Pc besser organisieren.
 
 ## Reflexion
 Ich habe heute meinen Pc etwas sortiert. 
@@ -39,9 +39,9 @@ Nun habe ich ei Ordner system das ordner hat für Baden und Aarau und dan für d
 jetzt muss ich noch die Dateien am richtigen ort einordnen.
 
 ## Planung 31.10.2025
-[x] Coding Projekt Planen
-[x] Letzter schliff am Ordnungssystem
-[ ] Erste umsetztungen des Codingprojekts
+- [x] Coding Projekt Planen
+- [x] Letzter schliff am Ordnungssystem
+- [ ] Erste umsetztungen des Codingprojekts
 
 ## Reflexion
 Heute habe ich das Ordnungsystem fertig angepasst und beendet.
@@ -50,9 +50,9 @@ Danach habe ich mir nochmals die grundlagen von C# angeschaut da ich einiges ver
 um es mir zu merken habe ich gleich einige kleine Projekte gecodet.
 
 ## Planung 07.11.2025
-[ ] Coding Projekt Anfangen
-[x] C# kenntnise erweitern
-[ ] Kentnisse für  projekt  nutzen
+- [ ] Coding Projekt Anfangen
+- [x] C# kenntnise erweitern
+- [ ] Kentnisse für  projekt  nutzen
 
 ## Reflexion
 Heute habe ich zusammen mit Edim, dem buch und dem Internet meine C# kenntnise erweitert. 
@@ -61,34 +61,34 @@ Ich habe einen Plan für mein Projekt erstellt.
 Zu guter letzt habe ich Joel geholfen einige Probleme zu lösen.
 
 ## Planung 14.11.2025
-[ ]  Projekt Starten
-[ ]  C# Kentnisse Repetieren
-[ ]  Modul 216 Weiterarbeiten
+- [ ]  Projekt Starten
+- [ ]  C# Kentnisse Repetieren
+- [ ]  Modul 216 Weiterarbeiten
 
 ## Reflexion
 Heute habe ich die Planung in meinem Ordunungsystem einpelant und passene Ordner dazu erstellt. Ich habe mich über C# informiert und repetiert. Ausserdem habe ich am Modul 216 weitergearbeitet. In zukunft sollte ich effektiver un schneller Arbeiten da ich sehr viel Zeit für kleine AUfgaben gebraucht habe.  
 
 ## Planung 21.11.2025
-[ ] C# kenntinise mit ersten Projektprogrammierungen erweitern
-[ ] Feinplanung des Projekts
-[ ] Erste Design vorschläge des Projekts sammeln
+- [ ] C# kenntinise mit ersten Projektprogrammierungen erweitern
+- [ ] Feinplanung des Projekts
+- [ ] Erste Design vorschläge des Projekts sammeln
 
 ## Reflexion
 Ich habe mein Projekt nun weiter ausgearbeitet, ausserdem habe ich mir beispiele aus ähnlichen websiten geholt um ideen für funktionen und design zu sammeln. Ich habe mich darüber informiert wie ich diese ideen umsetzen könnte. Ausserdem habe ich am Modul 216 Weitergearbeitet. Zukünftig sollte ich im vorraus den Ablauf des Tages planen da ich so viel effektiver arbeiten könnte.
 
 ## Planung 28.11.2025
-[  ] Tagesplanung erstellen
-[  ] Projekt planung auf Pc verfassen
-[  ] Modul 216 bearbeiten
+- [ ] Tagesplanung erstellen
+- [ ] Projekt planung auf Pc verfassen
+- [ ] Modul 216 bearbeiten
 
 ## Reflexion
 Heute habe ich im Quietspace die Feinplanung für meine Website erstellt, diese habe ich in einem Word festgehalten, ausserdem habe ich weitere ideen auf pinterest und bei andern ähnlichen Websiten gesucht.
 Ich hatte am anfang etwas Probleme mit dem Monitor da die auflösung nicht stimmte und die Qualität dadurch Miserabel war. 
 
 ## Planung 05.12.2025
-[] Feinplanung in Excel Datei festhalten
-[] Beta Version weiterführen.
-[] Html basics 
+- [ ] Feinplanung in Excel Datei festhalten
+- [ ] Beta Version weiterführen.
+- [ ] Html basics 
 
 
 
