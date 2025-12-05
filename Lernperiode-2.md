@@ -88,11 +88,17 @@ Ich hatte am anfang etwas Probleme mit dem Monitor da die auflösung nicht stimm
 ## Planung 05.12.2025
 - [ ] Feinplanung in Excel Datei festhalten
 - [ ] Beta Version weiterführen.
-- [ ] Html basics 
+- [ ] Html basics
 
+## Reflexion
+Heute habe ich die Feinplanung festgehalten und weitere ideen gesucht, ausserdem habe ich mir die Jetsbrain Toolbox runtergeladen und erste Erfahrungen mit Rider gemacht, leider war ich ein bischen zu blöd und hatte noch viele Probleme, dies hat mich viel Zeit gekostet. Nächstesmal wenn ich Probleme mit Applikationen oder sonstigem habe werde ich Mitschüler Lehrer oder Ki nach Hilfe fragen.
 
+## Planung 16.12.2025
+- [ ] Rider kentnisse erweitern
+- [ ] Auf Rider an Projekt arbeiten
+- [ ] JetsBrain Toolbox kennenlernen
 
-
+      
 
 
 
