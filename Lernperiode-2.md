@@ -96,9 +96,16 @@ Heute habe ich die Feinplanung festgehalten und weitere ideen gesucht, ausserdem
 ## Planung 16.12.2025
 - [ ] Rider kentnisse erweitern
 - [ ] Auf Rider an Projekt arbeiten
-- [ ] JetsBrain Toolbox kennenlernen
+- [ ] JetsBrain Toolbox kennenlerne
 
-      
+## Reflexion
+Heute habe ich mich weiter über rider informiert. Jedoch verstehe ich nicht viel mehr. Ausserdem habe ich meinen Tag am anfang geplant und dann schritt für schritt meine Planung abgearbeitet. Dies hat gut funktioniert.
+
+## Planung 19l.12.2025
+- [ ] Rider weiterinformieren.
+- [ ] Modul abbarbeiten
+- [ ] Projekt wieterrbearbeitee
+
 
 
 
